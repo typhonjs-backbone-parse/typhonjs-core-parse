@@ -2,6 +2,7 @@
    "entryPoints":
    [
       {
+         "inMemoryBuild": true,
          "destBaseDir": "./dist",
          "destFilename": "typhon-core-parse.js",
          "formats": ["amd"],

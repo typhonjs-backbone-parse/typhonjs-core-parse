@@ -1,6 +1,4 @@
 /**
- * Gulp operations for `typhon-core-parse`.
- *
  * Please see `typhon-core-gulptasks` (https://www.npmjs.com/package/typhon-core-gulptasks)
  */
 
