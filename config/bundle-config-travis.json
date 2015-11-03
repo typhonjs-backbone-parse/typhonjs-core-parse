@@ -9,7 +9,14 @@
          "mangle": false,
          "minify": false,
          "src": "test/fixture/maintest.js - [jquery] - [underscore]",
-         "extraConfig": "test/fixture/config-app-paths.js"
+         "extraConfig":
+         {
+            "meta":
+            {
+               "jquery": { "build": false },
+               "underscore": { "build": false }
+            }
+         }
       }
    ]
 }
