@@ -1,12 +1,12 @@
 {
-  "name": "typhon-core-parse",
+  "name": "typhonjs-core-parse",
   "version": "0.1.0",
   "homepage": "http://js.typhonrt.org/",
   "description": "TyphonJS Core Parse",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typhonjs/typhon-core-parse/typhon-core-parse.git"
+    "url": "https://github.com/typhonjs/typhonjs-core-parse/typhonjs-core-parse.git"
   },
   "jspm": {
     "dependencies": {
