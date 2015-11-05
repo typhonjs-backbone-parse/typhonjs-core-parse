@@ -1,5 +1,5 @@
 {
-   "title": "Typhon-Core-Parse",
+   "title": "typhonjs-core-parse",
    "source": "src",
    "destination": "docs",
    "plugins":

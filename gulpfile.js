@@ -1,5 +1,5 @@
 /**
- * Please see `typhon-core-gulptasks` (https://www.npmjs.com/package/typhon-core-gulptasks)
+ * Please see `typhonjs-core-gulptasks` (https://www.npmjs.com/package/typhonjs-core-gulptasks)
  */
 
 var gulp = require('gulp');
