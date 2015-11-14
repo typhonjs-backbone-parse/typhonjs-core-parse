@@ -12,7 +12,7 @@
     "main": false,
     "dependencies": {
       "backbone": "github:typhonjs/backbone-parse-es6@master",
-      "parse": "npm:parse@^1.6.8",
+      "parse": "npm:parse@^1.6.9",
       "underscore": "npm:underscore@^1.8.3"
     },
     "devDependencies": {
