@@ -3,15 +3,18 @@
   "version": "0.1.0",
   "homepage": "http://js.typhonrt.org/",
   "description": "TyphonJS Core Parse",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typhonjs/typhonjs-core-parse/typhonjs-core-parse.git"
+    "url": "https://github.com/typhonjs-backbone-parse/typhonjs-core-parse/typhonjs-core-parse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/typhonjs-backbone-parse/typhonjs-core-parse/issues"
   },
   "jspm": {
     "main": false,
     "dependencies": {
-      "backbone": "github:typhonjs/backbone-parse-es6@master",
+      "backbone": "github:typhonjs-backbone-parse/backbone-parse-es6@master",
       "parse": "npm:parse@^1.7.0",
       "underscore": "npm:underscore@^1.8.3"
     },
@@ -19,19 +22,13 @@
       "babel": "npm:babel-core@^5.8.35",
       "babel-runtime": "npm:babel-runtime@^5.8.35",
       "core-js": "npm:core-js@^1.2.6"
-    },
-    "files": [
-      "src/",
-      "esdoc.json",
-      "package.json",
-      "CHANGELOG.md",
-      "README.md"
-    ]
+    }
   },
   "devDependencies": {
-    "gulp": "^3.9.0",
-    "jspm": "^0.16.25",
-    "typhonjs-config-eslint": "^0.2.1",
-    "typhonjs-core-gulptasks": "^0.5.0"
+    "gulp": "^3.0.0",
+    "jspm": "^0.16.0",
+    "typhonjs-config-eslint": "^0.4.0",
+    "typhonjs-core-gulptasks": "^0.6.0",
+    "typhonjs-npm-build-test": "^0.1.0"
   }
 }
